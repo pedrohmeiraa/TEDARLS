@@ -1,0 +1,107 @@
+25
+x ant =  10.0
+valor atual 12.0
+flag 0
+X_ant [8.0, 10.0]
+Ya_pred 9.21789768666706
+First Stage - outlier_count: 0
+vetor de entrada [10.0, 12.0]
+y_pred_py 11.303940691069437
+Second Stage - outlier_count: 0
+Valor salvo: 12.0
+_______
+26
+x ant =  12.0
+valor atual 15.0
+flag 1
+X_ant [10.0, 12.0]
+Ya_pred 11.303940691069437
+First Stage - outlier_count: 1
+vetor de entrada [12.0, 11.303940691069437]
+y_pred_py 11.097830975284028
+Second Stage - outlier_count: 1
+Valor salvo: 11.097830975284028
+_______
+27
+x ant =  11.303940691069437
+valor atual 18.0
+flag 1
+X_ant [12.0, 11.303940691069437]
+Ya_pred 11.097830975284028
+First Stage - outlier_count: 2
+vetor de entrada [11.303940691069437, 11.097830975284028]
+y_pred_py 10.812316931714133
+Second Stage - outlier_count: 2
+Valor salvo: 10.812316931714133
+_______
+28
+x ant =  11.097830975284028
+valor atual 21.0
+flag 1
+X_ant [11.303940691069437, 11.097830975284028]
+Ya_pred 10.812316931714133
+First Stage - outlier_count: 3
+vetor de entrada [11.097830975284028, 21.0]
+y_pred_py 19.618880409801697
+Second Stage - outlier_count: 0
+Valor salvo: 21.0
+_______
+29
+x ant =  21.0
+valor atual 22.0
+flag 1
+X_ant [11.097830975284028, 21.0]
+Ya_pred 19.618880409801697
+First Stage - outlier_count: 1
+vetor de entrada [21.0, 19.618880409801697]
+y_pred_py 20.500568288613877
+Second Stage - outlier_count: 1
+Valor salvo: 20.500568288613877
+_______
+30
+x ant =  19.618880409801697
+valor atual 25.0
+flag 1
+X_ant [21.0, 19.618880409801697]
+Ya_pred 20.500568288613877
+First Stage - outlier_count: 2
+vetor de entrada [19.618880409801697, 20.500568288613877]
+y_pred_py 20.946941100028944
+Second Stage - outlier_count: 2
+Valor salvo: 20.946941100028944
+_______
+31
+x ant =  20.500568288613877
+valor atual 25.0
+flag 1
+X_ant [19.618880409801697, 20.500568288613877]
+Ya_pred 20.946941100028944
+First Stage - outlier_count: 3
+vetor de entrada [20.500568288613877, 25.0]
+y_pred_py 25.4736095407249
+Second Stage - outlier_count: 0
+Valor salvo: 25.0
+_______
+32
+x ant =  25.0
+valor atual 24.0
+flag 1
+X_ant [20.500568288613877, 25.0]
+Ya_pred 25.4736095407249
+First Stage - outlier_count: 1
+vetor de entrada [25.0, 25.4736095407249]
+y_pred_py 26.851465340411053
+Second Stage - outlier_count: 1
+Valor salvo: 26.851465340411053
+_______
+33
+x ant =  25.4736095407249
+valor atual 23.0
+flag 1
+X_ant [25.0, 25.4736095407249]
+Ya_pred 26.851465340411053
+First Stage - outlier_count: 2
+vetor de entrada [25.4736095407249, 26.851465340411053]
+y_pred_py 28.112507940859224
+Second Stage - outlier_count: 2
+Valor salvo: 28.112507940859224
